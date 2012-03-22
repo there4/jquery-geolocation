@@ -1,4 +1,6 @@
-# Geolocation
+[![Build Status](https://secure.travis-ci.org/there4/jquery-geolocation.png?branch=master)](http://travis-ci.org/there4/jquery-geolocation)
+
+# jQuery Geolocation
 
 jQuery Geolocation with IpInfoDB
 
