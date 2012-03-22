@@ -7,8 +7,8 @@ jQuery Geolocation with IpInfoDB
 ## Getting Started
 Download the [production version][min] or the [development version][max].
 
-[min]: https://raw.github.com/there4/geolocation/master/dist/geolocation.min.js
-[max]: https://raw.github.com/there4/geolocation/master/dist/geolocation.js
+[min]: https://raw.github.com/there4/geolocation/master/dist/jquery.geolocation.min.js
+[max]: https://raw.github.com/there4/geolocation/master/dist/jquery.geolocation.js
 
 In your web page:
 
