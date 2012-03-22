@@ -1,0 +1,33 @@
+{
+  "name": "geolocation",
+  "title": "Geolocation",
+  "description": "jQuery Geolocation with IpInfoDB",
+  "version": "0.1.0",
+  "homepage": "https://github.com/there4/jquery-geolocation",
+  "author": {
+    "name": "Craig Davis",
+    "email": "craig@there4development.com",
+    "url": "http://there4development.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/there4/jquery-geolocation.git"
+  },
+  "bugs": {
+    "url": "https://github.com/there4/jquery-geolocation/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/there4/jquery-geolocation/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "grunt": "~0.2.15"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "scripts": {
+    "test": "grunt test"
+  }
+}
